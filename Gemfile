@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'omniauth-yahoojp'
 
 gem 'dotenv-rails'
+
+gem 'yahoo-api'
